@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuWoPyoneer", "PuWoPyoneer\PuWoGenerator.csproj", "{E99AC520-5EBA-4638-B748-827049CE0D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99AC520-5EBA-4638-B748-827049CE0D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99AC520-5EBA-4638-B748-827049CE0D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99AC520-5EBA-4638-B748-827049CE0D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99AC520-5EBA-4638-B748-827049CE0D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F06D16-E58E-4EC5-9581-F47263217EE6}
+	EndGlobalSection
+EndGlobal

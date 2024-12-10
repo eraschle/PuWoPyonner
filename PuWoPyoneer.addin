@@ -1,0 +1,9 @@
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>PuWoPyoneer</Name>
+    <Assembly>PuWoPyoneer\PuWoGenerator.dll</Assembly>
+    <AddInId>e2c49183-94bf-4081-8760-275db07bfb3b</AddInId>
+    <VendorId>BamBamBimheimer</VendorId>
+    <VendorDescription>PuWo Generator</VendorDescription>
+  </AddIn>
+</RevitAddIns>
